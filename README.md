@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys working on exciting projects and learning new technologies.
 
+![Profile Views](https://komarev.com/ghpvc/?username=aravind3566&color=blue&style=flat)
+
 ## About Me
 
 - 💻 I’m currently working on building cross-platform mobile applications using React Native.
